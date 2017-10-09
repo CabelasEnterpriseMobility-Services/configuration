@@ -1,9 +1,0 @@
-cache.timetolive=11000
-
-greeting=howdy partner
-
-tcpsockets.timeout=30
-connect.timeout=5000
-read.timeout=30000
-
-as400.URL=http://felix.cabelas.corp:3205/run
